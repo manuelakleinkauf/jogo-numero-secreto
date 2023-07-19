@@ -38,3 +38,13 @@ h3{
     font-size: 3.5em;
     padding: 8px;
 }
+
+.btn-jogar{
+    margin-top: 1em;
+    border-radius: 5px;
+    padding: 0.6em;
+    border:2px solid var(--cor-primaria) ;
+    color: var(--cor-primaria);
+    background-color: transparent;
+    cursor: pointer;
+}

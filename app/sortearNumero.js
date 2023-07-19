@@ -12,4 +12,4 @@ elementoMenorValor.innerHTML = menorValor
 const elementoMaiorValor = document.getElementById('maior_valor')
 elementoMaiorValor.innerHTML = maiorValor
 
-console.log(elementoMaiorValor)
+
